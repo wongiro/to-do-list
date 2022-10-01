@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  border: 3px solid black;
+  height: 50%;
+  width: 50%;
+  text-align: center;
+}
+
+ul li input button{
+  width: 50%;
+  padding: 5px;
+  margin-top: 5px;
+}
