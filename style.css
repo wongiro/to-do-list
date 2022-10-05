@@ -20,3 +20,25 @@ ul li input button{
   padding: 5px;
   margin-top: 5px;
 }
+
+.list{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#addTodo{
+  width: 50%;
+  height: 56px;
+  background: turquoise;
+  margin-top: 15px;
+  text-align: center;
+  left: 25%;
+  font-size: 1.5rem;
+  cursor: grab;
+}
+
+#todo{
+  width: 50%;
+  height: 56px;
+}
